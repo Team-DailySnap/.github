@@ -22,6 +22,7 @@
 ## 🧑‍🤝‍🧑 팀원 소개
 
 - 예정
+![image](https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953)
 
 
 
