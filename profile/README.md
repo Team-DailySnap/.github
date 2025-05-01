@@ -82,8 +82,27 @@
 
 ## 🧑‍🤝‍🧑 팀원 소개
 
-- 예정
-![image](https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953)
+| <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> |
+|:----------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| **PM, 기획** | **Design** | **Design** | **Front-End** |
+| [조휘민](https://github.com/wheemin1) | [목예진](https://github.com/yeramyyi) | [조연주](https://github.com/SeoHyun1024) | [손재호](https://github.com/Cassiiopeia) |
+
+
+<br/>
+
+| <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/7aaabdff-cecf-4d61-9fe6-a72aa1093953" width="200" height="200"> |
+|:----------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| **Front-End** | **Back-End** | **Back-End** | **Back-End** |
+| [남유성](https://github.com/wheemin1) | [백지훈](https://github.com/yeramyyi) | [김나영](https://github.com/SeoHyun1024) | [황혜](https://github.com/Cassiiopeia) |
+
+
+
+
+
+
+
+
+
 
 
 
