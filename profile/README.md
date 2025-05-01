@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+여기 수정하면 Organization 메인 화면 ReadMe 됩니당~
+
 <!--
 
 **Here are some ideas to get you started:**
