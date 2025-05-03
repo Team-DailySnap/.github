@@ -109,6 +109,14 @@
 
 
 <BR/><BR/>
+## ⚙️ERD
+
+![image](https://github.com/user-attachments/assets/ab88e5f4-ee18-42d5-ac8c-839959420136)
+
+
+
+<BR/><BR/>
+
 ## 🗂️ Architecture
 
 - 예정
